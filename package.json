@@ -1,0 +1,16 @@
+{
+  "name": "fei-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A dark syntax theme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "fei"
+  ],
+  "repository": "https://github.com/anuny/fei-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
